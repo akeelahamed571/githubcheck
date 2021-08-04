@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">gitPractise</string>
     <string name="initial_commit">initial commit</string>
-    <string name="initial_commit">initial commit</string>
-    <string name="initial_commit">initial commit</string>
+    <string name="initial_commit1">initial commit</string>
+    <string name="initial_commit2">initial commit</string>
+
+
 </resources>
